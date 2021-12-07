@@ -1,4 +1,4 @@
--Hi, I’m @lytekm and I'm a beginner deveolper
+-Hi, I’m Lyte and I'm a beginner deveolper
 
 -I’m interested in all different types of programming from web and game development to machine learning
 
