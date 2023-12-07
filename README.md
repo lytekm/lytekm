@@ -1,4 +1,4 @@
--Reach me kmbusiness747@gmail.com or add me on Discord: Lyte#9705
+-Reach me at kmbusiness747@gmail.com 
 
 <!---
 lytekm/lytekm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
