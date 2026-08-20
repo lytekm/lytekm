@@ -6,7 +6,7 @@ My professional experience is primarily in full-stack development, while my pers
 
 I publish my projects and technical writing under **LyteDev**.
 
-### What I'm working on
+### What I'm working on right now
 
 * **Lyte Engine** — My C++ game engine project, built as a way to explore rendering, engine architecture, and lower-level programming.
 * **Membrant** — An application I'm developing and preparing for release.
@@ -27,7 +27,3 @@ I publish my projects and technical writing under **LyteDev**.
 
 🌐 **LyteDev:** lytedev.ca
 💻 **LinkedIn:** linkedin.com/in/kevin-r-morrison/
-
----
-
-*I like building things that either solve a problem I have or teach me something I didn't understand before.*
