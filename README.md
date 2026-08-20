@@ -26,7 +26,7 @@ I publish my projects and technical writing under **LyteDev**.
 ### Find me elsewhere
 
 🌐 **LyteDev:** lytedev.ca
-💻 **GitHub:** @lytekm
+💻 **LinkedIn:** linkedin.com/in/kevin-r-morrison/
 
 ---
 
